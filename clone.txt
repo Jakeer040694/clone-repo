@@ -4,3 +4,4 @@ to clone the repository
 merge conflicts are seen
 resolve this issue
 
+just one more line added 
