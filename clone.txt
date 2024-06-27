@@ -1,3 +1,6 @@
 hi clone repository
 this file is edited by master
 to clone the repository
+merge conflicts are seen
+resolve this issue
+
